@@ -7,7 +7,7 @@
 ## 🖼️ Visão Geral
 Este repositório contém a solução para o desafio de criação de um **Dashboard de Vendas**. O projeto foca na organização dos dados, estruturação de tabelas dinâmicas e design de interface para facilitar a tomada de decisão baseada em dados (Data Driven).
 
-![Preview do Dashboard](dashboard-preview.png)
+![Preview do Dashboard](dashboard_preview.png)
 
 
 ## 🎯 Objetivos do Projeto
