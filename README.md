@@ -16,15 +16,6 @@ Este repositório contém a solução para o desafio de criação de um **Dashbo
 - **Visualização:** Criar gráficos intuitivos que respondem a perguntas de negócio rapidamente.
 - **Interatividade:** Implementar segmentação de dados (Slicers) para filtragem dinâmica.
 
-## 🧮 Funcionalidades e KPIs
-O painel permite a visualização das seguintes métricas principais:
-
-* **Faturamento Total:** Visão macro da receita.
-* **Ticket Médio:** Valor médio por venda realizada.
-* **Vendas por Período:** Análise temporal (mensal/anual) para identificar sazonalidade.
-* **Top Produtos/Vendedores:** Ranking de desempenho.
-* **Distribuição Geográfica:** [Se houver] Performance de vendas por região/estado.
-
 ## 🛠️ Tecnologias Utilizadas
 * **Microsoft Excel:**
     * Tratamento de dados (Limpeza e Padronização).
